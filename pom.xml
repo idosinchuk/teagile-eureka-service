@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.idosinchuk.eureka</groupId>
-	<artifactId>eureka-handlemovies</artifactId>
+	<groupId>com.idosinchuk.architecturechallenge.discovery</groupId>
+	<artifactId>EurekaDiscoveryServer-HandleMovies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-handlemovies</name>
-	<description>Eureka server for handlemovies project for Spring Boot Cloud</description>
+	<name>EurekaDiscoveryServer-HandleMovies</name>
+	<description>Microservice for Handle Movies project with Spring Boot, Spring Cloud Eureka, etc.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
