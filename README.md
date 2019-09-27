@@ -1,2 +1,2 @@
-# eureka-server-handlemovies
-Microservice Eureka server for handlemovies project with Spring Boot, Spring Cloud Eureka, etc.
+# teagile-eureka-service
+TEAgile Eureka Service for SopraSteria Hackaton
