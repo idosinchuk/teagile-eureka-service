@@ -1,2 +1,2 @@
 # teagile-eureka-service
-TEAgile Eureka Service for SopraSteria Hackaton
+Eureka Service for TEAgile project

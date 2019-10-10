@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.eureka.service;
+package com.idosinchuk.teagile.eureka.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
